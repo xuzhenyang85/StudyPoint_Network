@@ -1,0 +1,8 @@
+/DIVERSE# java -cp SOCKET.jar tcpserverclient.TcpServerTest
+
+Start server
+/DIVERSE# java -cp SocketExercises.jar ex4_5_multiple_clients.ServerTest
+
+
+Start client
+/DIVERSE# java -cp SocketExercises.jar ex4_5_multiple_clients.ClientTest
